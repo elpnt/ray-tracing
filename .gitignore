@@ -2,4 +2,5 @@ sample*
 output.ppm
 a
 ray-tracing
-.vscode/*
+/.vscode/
+vim.log

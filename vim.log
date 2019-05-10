@@ -11,3 +11,37 @@ change line  col text
 
 ".gitignore" 
 ".gitignore" 5L, 43C written
+No matching autocommands
+".gitignore" 5L, 43C
+No matching autocommands
+No matching autocommands
+filetype detection:ON  plugin:ON  indent:ON-- INSERT ---- INSERT ---- INSERT --
+change line  col text
+    1     5    7 .vscode
+>-- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+-- INSERT --
+
+
+".gitignore" 
+".gitignore" 5L, 43C written
+No matching autocommands
+".gitignore" 5L, 43C
+No matching autocommands
+No matching autocommands
+filetype detection:ON  plugin:ON  indent:ON-- INSERT --
+change line  col text
+    3     5    8 /.vscode/
+    2     5    0 /.vscode/
+    1     6    1 vi
+>-- INSERT ---- INSERT ---- INSERT ---- INSERT --
+change line  col text
+    3     5    8 /.vscode/
+    2     5    0 /.vscode/
+    1     6    5 vim.lo
+>-- INSERT ---- INSERT ---- INSERT --
+
+
+".gitignore" 
+".gitignore" 6L, 51C written
